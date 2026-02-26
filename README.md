@@ -1,4 +1,4 @@
-# Hoi, ik ben Vincent 👋 (Webtukker)
+# Hoi, ik ben Vincent Borgers👋
 
 ### 👨‍💻 Senior Full-Stack Software Ontwikkelaar & Ondernemer
 Als eigenaar van **Webtukker** ontwerp en ontwikkel ik hoogwaardige digitale ecosystemen. Ik combineer jarenlange ervaring met een nuchtere Twentse aanpak om complexe technische uitdagingen om te zetten in schaalbare, commerciële oplossingen.
