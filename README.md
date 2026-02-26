@@ -1,44 +1,47 @@
 # Hoi, ik ben Vincent 👋 (Webtukker)
 
-### 👨‍💻 Ervaren Full-Stack Software Ontwikkelaar & Ondernemer
-Ik ontwerp en bouw schaalbare digitale ecosystemen met een focus op performance, type-safety en nuchtere Twentse logica. Als eigenaar van **Webtukker** help ik concepten te transformeren naar robuuste applicaties.
+### 👨‍💻 Senior Full-Stack Software Ontwikkelaar & Ondernemer
+Als eigenaar van **Webtukker** ontwerp en ontwikkel ik hoogwaardige digitale ecosystemen. Ik combineer jarenlange ervaring met een nuchtere Twentse aanpak om complexe technische uitdagingen om te zetten in schaalbare oplossingen.
 
 ---
 
 ## 🛠️ Expertise & Stack
-Ik specialiseer me in de "Modern Web & Mobile" stack, waarbij ik frontend-kracht combineer met serverless backend-architectuur.
+Mijn focus ligt op het bouwen van robuuste applicaties waarbij performance en type-safety centraal staan.
 
-- **Frontend:** Deep knowledge in **React** & **React Native (Expo)**. Expert in Tailwind CSS voor snelle, modulaire UI-ontwikkeling.
-- **Backend:** Specialist in **Supabase** & **PostgreSQL**. Ervaring met complexe Edge Functions (Deno), Row Level Security (RLS) en database-architectuur.
-- **Architectuur:** Ervaren in het opzetten van monorepo's, CI/CD pipelines (GitHub Actions) en geautomatiseerde builds via EAS.
-- **Talen:** TypeScript (Strict), JavaScript, SQL, HTML/CSS.
+- **Frontend & Mobile:** Expert in **React** & **React Native (Expo)**. Specialist in het bouwen van modulaire UI-systemen met Tailwind CSS.
+- **Backend & Cloud:** Diepgaande kennis van **Supabase** & **PostgreSQL**. Ervaring met serverless architecturen, Edge Functions en complexe database-beveiliging (RLS).
+- **DevOps:** Inrichting van monorepo-structuren, CI/CD pipelines en geautomatiseerde release-processen (EAS/GitHub Actions).
+- **Talen:** TypeScript (Expert), JavaScript, SQL, HTML5/CSS3.
 
 ---
 
 ## 🏗️ Highlight: TukkerDates Ecosysteem
-Mijn huidige focus ligt op het beheren van het volledige technologische landschap van **TukkerDates**:
-- **Consumenten App:** High-performance React Native app voor iOS/Android.
-- **Business Portal:** Complex beheerpaneel voor partners (React/Vite).
-- **Automatisering:** Volledig geautomatiseerde workflows voor betalingen, notificaties en user-verification.
+Ik beheer het volledige technologische landschap van **TukkerDates**, een platform dat Twente verbindt:
+- **Mobiele Applicatie:** Full-featured dating ervaring (iOS/Android).
+- **Business Portal:** Geavanceerd dashboard voor partners en administratie.
+- **Backend Infrastructure:** Schaalbare database en geautomatiseerde workflows.
 
 ---
 
-## 📈 GitHub Insights & Activiteit
-*(Let op: Deze afbeeldingen laden zodra je repo-naam matcht met je username)*
+## 📊 GitHub Insights & Activiteit
+Hieronder zie je mijn stats (gebaseerd op mijn werk over alle projecten):
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentBorgers&show_icons=true&theme=dark&hide_border=true" alt="Vincent's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBorgers&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VincentBorgers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vincent's Stats" width="400" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VincentBorgers&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
 </p>
 
 ---
 
-## 🤝 Laten we praten
-Ik ben altijd in voor een gesprek over software-architectuur, startup-scaling of nieuwe tech-ontwikkelingen.
+## 🤝 Contact & Samenwerking
+Altijd open voor discussies over software-architectuur of innovatieve projecten.
 
 - 🌐 **Webtukker:** [webtukker.nl](https://webtukker.nl)
-- 📧 **Zakelijk:** [info@webtukker.nl](mailto:info@webtukker.nl)
+- 📧 **E-mail:** [info@webtukker.nl](mailto:info@webtukker.nl)
 - 🚀 **Project:** [tukkerdates.nl](https://tukkerdates.nl)
 
 ---
-*Building the future, one commit at a time.* 🚜💨
+*Vakmanschap uit Twente.* 🚜💨
