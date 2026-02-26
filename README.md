@@ -27,11 +27,11 @@ Ik beheer het volledige technologische landschap van **TukkerDates**, een platfo
 Hieronder zie je mijn stats (gebaseerd op mijn werk over alle projecten):
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VincentBorgers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vincent's Stats" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VincentBorgers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vincent's Stats" width="400" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VincentBorgers&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VincentBorgers&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="350" />
 </p>
 
 ---
