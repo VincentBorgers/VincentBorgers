@@ -84,6 +84,18 @@ Developer tools, AI projects, payment flows and software experiments.
 
 ---
 
+# ☕ Support Open Source & Experiments
+
+Support helps fund **open source tools, experiments and testing projects** created by WebTukker Labs.
+
+<p align="center">
+  <a href="https://buymeacoffee.com/webtukkerlabs">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+---
+
 # 🌐 Connect
 
 <p>
