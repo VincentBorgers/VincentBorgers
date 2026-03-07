@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vincent Borgers</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Web+%26+Software+Developer;Founder+of+WebTukker+Labs;Building+Apps+%7C+SaaS+%7C+Experimental+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Web+%26+Software+Developer;Founder+of+WebTukker+Labs;" alt="Typing SVG" />
 </p>
 
 <p align="center">
