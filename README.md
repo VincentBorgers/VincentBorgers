@@ -67,8 +67,9 @@ I enjoy designing systems that are **fast, scalable and developer-friendly**.
 ### 🚀 TukkerDates
 Dating platform focused on **real-life connections and meet-to-meet dating**.
 
-### 📊 PlanMaatje
-Workforce planning software designed for small businesses.
+### 🏠 Tukkie
+Open-source, privacy-first home intelligence platform designed for Dutch households and makers.  
+Runs locally, integrates with smart home devices and focuses on experimentation with AI, automation and local infrastructure.
 
 ### 🧠 Experiments
 Developer tools, AI projects, payment flows and software experiments.
