@@ -21,6 +21,8 @@ I focus on:
 - ⚡ Modern Web Applications
 - 📱 Mobile Applications
 - 🧠 AI Integrations & Automation
+- 🔌 MCP Servers & AI Tooling
+- 🛒 E-commerce & CMS Solutions
 - 💳 Payment & Stripe Integrations
 - 🔧 Open Source Software
 - 🎮 Interactive Experiences
@@ -32,34 +34,49 @@ I enjoy building software that is **fast, scalable and user-focused**.
 # 🧰 Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Mobile
+
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
 </p>
 
-### Tools & Platforms
+### CMS & E-commerce
+
 <p>
-  <img src="https://skillicons.dev/icons?i=github,docker,unity" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://img.shields.io/badge/Shopify-0D1117?style=for-the-badge&logo=shopify&logoColor=96BF48" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,docker,linux,unity" />
 </p>
 
 ### Code, AI & Payments
+
 <p>
   <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=635BFF" />
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
 </p>
 
 ---
@@ -85,11 +102,9 @@ I actively contribute to open-source projects and enjoy building tools, experime
   <a href="https://vincentborgers.nl">
     <img src="https://img.shields.io/badge/Personal_Website-black?style=for-the-badge&logo=google-chrome">
   </a>
-
   <a href="https://www.linkedin.com/in/vincent-borgers/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
   </a>
-
   <a href="mailto:info@vincentborgers.nl">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
   </a>
