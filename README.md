@@ -1,28 +1,31 @@
 <h1 align="center">👋 Hi, I'm Vincent Borgers</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Web+%26+Software+Developer;Founder+of+WebTukker+Labs;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Developer from the Netherlands building modern applications and experimental software.
+Full Stack Developer from the Netherlands building modern web applications, software solutions and open-source projects.
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **Web & Software Developer** from Twente, Netherlands and the founder of **WebTukker Labs**.
+I'm a **Full Stack Developer** based in the Netherlands, currently working at a **marketing agency** where I build and maintain digital platforms, websites and custom software solutions.
 
-I focus on building:
+Alongside my professional work, I contribute to **open-source projects** and enjoy experimenting with new technologies.
 
-- ⚡ Modern Web Applications  
-- 📱 Mobile Apps  
-- 🧠 AI Experiments  
-- 💳 SaaS & Stripe Integrations  
-- 🎮 Interactive & Game-related Experiments  
+I focus on:
 
-I enjoy designing systems that are **fast, scalable and developer-friendly**.
+- ⚡ Modern Web Applications
+- 📱 Mobile Applications
+- 🧠 AI Integrations & Automation
+- 💳 Payment & Stripe Integrations
+- 🔧 Open Source Software
+- 🎮 Interactive Experiences
+
+I enjoy building software that is **fast, scalable and user-focused**.
 
 ---
 
@@ -57,22 +60,13 @@ I enjoy designing systems that are **fast, scalable and developer-friendly**.
 <p>
   <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=635BFF" />
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-# 🧪 Projects
+# 🌱 Open Source
 
-### 🚀 TukkerDates
-Dating platform focused on **real-life connections and meet-to-meet dating**.
-
-### 🏠 Tukkie
-Open-source, privacy-first home intelligence platform designed for Dutch households and makers.  
-Runs locally, integrates with smart home devices and focuses on experimentation with AI, automation and local infrastructure.
-
-### 🧠 Experiments
-Developer tools, AI projects, payment flows and software experiments.
+I actively contribute to open-source projects and enjoy building tools, experiments and software that others can learn from, use and improve.
 
 ---
 
@@ -85,25 +79,9 @@ Developer tools, AI projects, payment flows and software experiments.
 
 ---
 
-# ☕ Support Open Source & Experiments
-
-Support helps fund **open source tools, experiments and testing projects** created by WebTukker Labs.
-
-<p align="center">
-  <a href="https://buymeacoffee.com/webtukkerlabs">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee">
-  </a>
-</p>
-
----
-
 # 🌐 Connect
 
 <p>
-  <a href="https://webtukker.nl">
-    <img src="https://img.shields.io/badge/WebTukker_Labs-black?style=for-the-badge&logo=google-chrome">
-  </a>
-
   <a href="https://vincentborgers.nl">
     <img src="https://img.shields.io/badge/Personal_Website-black?style=for-the-badge&logo=google-chrome">
   </a>
@@ -115,10 +93,4 @@ Support helps fund **open source tools, experiments and testing projects** creat
   <a href="mailto:info@vincentborgers.nl">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
   </a>
-</p>
-
----
-
-<p align="center">
-⭐ WebTukker Labs — Building apps, SaaS and experimental software
 </p>
