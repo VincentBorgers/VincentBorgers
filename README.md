@@ -1,106 +1,128 @@
-<h1 align="center">👋 Hi, I'm Vincent Borgers</h1>
+<h1 align="center">Hi, I'm Vincent Borgers</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+TypeScript;Building+MCP+servers+and+AI+tooling" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Full Stack Developer from the Netherlands building modern web applications, software solutions and open-source projects.
+Full stack developer and entrepreneur from the Netherlands. I build web apps, mobile apps, Shopify and WordPress solutions, and the servers they run on.
 </p>
 
 ---
 
-# 🚀 About Me
+## About me
 
-I'm a **Full Stack Developer** based in the Netherlands, currently working at a **marketing agency** where I build and maintain digital platforms, websites and custom software solutions.
+By day I work at an online marketing agency, where I build custom web apps, webshops, dashboards and internal tools. Outside of that I build my own tools and systems and contribute to open source.
 
-Alongside my professional work, I contribute to **open-source projects** and enjoy experimenting with new technologies.
+What I spend most of my time on:
 
-I focus on:
-
-- ⚡ Modern Web Applications
-- 📱 Mobile Applications
-- 🧠 AI Integrations & Automation
-- 🔌 MCP Servers & AI Tooling
-- 🛒 E-commerce & CMS Solutions
-- 💳 Payment & Stripe Integrations
-- 🔧 Open Source Software
-- 🎮 Interactive Experiences
-
-I enjoy building software that is **fast, scalable and user-focused**.
+- **Web applications** with Laravel, React and TypeScript, from database to deployment
+- **Mobile apps** with React Native, built and shipped for Android
+- **Desktop apps** with Electron
+- **MCP servers and AI tooling** that connect AI clients to real APIs, with OAuth and access control
+- **Shopify** themes in Liquid and custom apps with Remix and Prisma
+- **WordPress** plugins and Elementor widgets, including licensing and white-label setups
+- **Design and animation**: designing sites from scratch, scroll-driven and 3D effects, Webflow
+- **APIs and integrations**: Google Ads, Merchant Center, Analytics, Meta, Stripe, Mapbox, Firebase
+- **Servers**: Linux, Docker, Nginx and Caddy, mail servers, SSL, security hardening and monitoring
+- **Tracking and data**: server-side tagging, conversion tracking and data pipelines feeding live dashboards
 
 ---
 
-# 🧰 Tech Stack
+## Tech stack
 
-### Languages
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,html,css" />
 </p>
 
-### Frontend
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-### Mobile
+**Backend and data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,postgres,mysql,sqlite,prisma" />
 </p>
 
-### Backend
+**Mobile and desktop**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
 </p>
 
-### CMS & E-commerce
+**CMS, e-commerce and design**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress" />
   <img src="https://img.shields.io/badge/Shopify-0D1117?style=for-the-badge&logo=shopify&logoColor=96BF48" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,docker,linux,unity" />
-</p>
-
-### Code, AI & Payments
-
-<p>
+  <img src="https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-0D1117?style=for-the-badge&logo=woocommerce&logoColor=96588A" />
+  <img src="https://img.shields.io/badge/Elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=E2498A" />
+  <img src="https://img.shields.io/badge/Webflow-0D1117?style=for-the-badge&logo=webflow&logoColor=4353FF" />
   <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=635BFF" />
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Mapbox-0D1117?style=for-the-badge&logo=mapbox&logoColor=white" />
+</p>
+
+**Servers and tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Caddy-0D1117?style=for-the-badge&logo=caddy&logoColor=1F88C0" />
+  <img src="https://img.shields.io/badge/Let's_Encrypt-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
+
+**AI**
+
+<p>
   <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" />
+</p>
+
+**Marketing tech**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Ads-0D1117?style=for-the-badge&logo=googleads&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Google_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=E37400" />
+  <img src="https://img.shields.io/badge/Tag_Manager-0D1117?style=for-the-badge&logo=googletagmanager&logoColor=246FDB" />
+  <img src="https://img.shields.io/badge/Meta-0D1117?style=for-the-badge&logo=meta&logoColor=0467DF" />
 </p>
 
 ---
 
-# 🌱 Open Source
+## Open source
 
-I actively contribute to open-source projects and enjoy building tools, experiments and software that others can learn from, use and improve.
+I contribute to open-source projects and publish tools of my own.
 
 ---
 
-# 📊 GitHub Stats
+## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VincentBorgers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VincentBorgers&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VincentBorgers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBorgers&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VincentBorgers&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🌐 Connect
+## Contact
 
 <p>
   <a href="https://vincentborgers.nl">
-    <img src="https://img.shields.io/badge/Personal_Website-black?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome">
   </a>
   <a href="https://www.linkedin.com/in/vincent-borgers/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
