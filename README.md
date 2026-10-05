@@ -102,7 +102,7 @@ What I spend most of my time on:
 
 ## Open source
 
-I contribute to open-source projects and publish tools of my own. Recent contributions merged into major projects:
+I contribute to open-source projects. Recent contributions merged into major projects:
 
 - **WooCommerce** (by Automattic): fixed product search so users who can read but not edit private products get them in results ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
 - **Filament**: fixed the `OneTimeCodeInput` digit order in RTL layouts, with browser test coverage ([#20638](https://github.com/filamentphp/filament/pull/20638))
