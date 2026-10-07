@@ -106,6 +106,7 @@ I contribute to open-source projects. Recent contributions merged into major pro
 
 - **WooCommerce** (by Automattic): fixed product search so users who can read but not edit private products get them in results ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
 - **Filament**: fixed the `OneTimeCodeInput` digit order in RTL layouts, with browser test coverage ([#20638](https://github.com/filamentphp/filament/pull/20638))
+- **LiveHelperChat**: fixed reactions and message times disappearing from a chat message after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418))
 
 ---
 
