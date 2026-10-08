@@ -14,6 +14,8 @@ Merged contributions
 - **Filament** fixed the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638))
 - **LiveHelperChat** fixed reactions and message times disappearing after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418))
 
+<img src="https://streak-stats.demolab.com?user=VincentBorgers&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
 ## What I work with
 
 <p><img src="https://skillicons.dev/icons?i=ts,php,laravel,react,nextjs,tailwind,nodejs,wordpress,docker,linux,nginx,mysql,postgres" alt="TypeScript, PHP, Laravel, React, Next.js, Tailwind, Node.js, WordPress, Docker, Linux, Nginx, MySQL, PostgreSQL" /></p>
