@@ -24,3 +24,5 @@ Merged contributions
 ## Contact
 
 [vincentborgers.nl](https://vincentborgers.nl) · [LinkedIn](https://www.linkedin.com/in/vincent-borgers/) · [info@vincentborgers.nl](mailto:info@vincentborgers.nl)
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/vincentborgers)
