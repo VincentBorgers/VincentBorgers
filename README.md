@@ -8,11 +8,11 @@ Full stack developer from the Netherlands. At an online marketing agency I build
 
 ## Open source
 
-Merged contributions
+Recent contributions
 
-- **WooCommerce** fixed product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
-- **Filament** fixed the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638))
-- **LiveHelperChat** fixed reactions and message times disappearing after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418))
+- **LiveHelperChat** fixed reactions and message times disappearing after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418), October 2026)
+- **WooCommerce** fixed product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362), October 2026)
+- **Filament** fixed the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638), October 2026)
 
 <img src="https://streak-stats.demolab.com?user=VincentBorgers&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
