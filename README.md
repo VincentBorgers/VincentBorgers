@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Vincent Borgers</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+TypeScript;Building+MCP+servers+and+AI+tooling" alt="Typing SVG" />
-</p>
-
-<p align="center">
 Full stack developer and entrepreneur from the Netherlands. I build web apps, mobile apps, Shopify and WordPress solutions, and the servers they run on.
 </p>
 
