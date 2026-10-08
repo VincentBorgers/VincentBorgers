@@ -16,6 +16,8 @@ Merged contributions
 
 ## What I work with
 
+<p><img src="https://skillicons.dev/icons?i=ts,php,laravel,react,nextjs,tailwind,nodejs,wordpress,docker,linux,nginx,mysql,postgres" alt="TypeScript, PHP, Laravel, React, Next.js, Tailwind, Node.js, WordPress, Docker, Linux, Nginx, MySQL, PostgreSQL" /></p>
+
 - Laravel and PHP, React, TypeScript and Next.js
 - WordPress and WooCommerce plugins, Shopify themes and apps
 - MCP servers and API integrations with Google Ads, Merchant Center, Analytics and Meta
