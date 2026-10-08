@@ -1,6 +1,8 @@
 # Vincent Borgers
 
-Full stack developer from the Netherlands. At an online marketing agency I build web apps, webshops, dashboards and internal tools, mostly with Laravel, React and TypeScript, and with WordPress and Shopify when a client runs on them.
+Full stack developer from Enschede, the Netherlands. At an online marketing agency I build web apps, webshops, dashboards and internal tools, mostly with Laravel, React and TypeScript, and with WordPress and Shopify when a client runs on them.
+
+I'm social and enthusiastic, sometimes a bit too much, and I like coding as much as starting things of my own. Outside of work I like binge-watching films and series.
 
 ## Projects
 
