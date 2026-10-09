@@ -1,6 +1,6 @@
 # Vincent Borgers
 
-Full stack developer from Enschede, the Netherlands. At an online marketing agency I build web apps, webshops, dashboards and internal tools, mostly with Laravel, React and TypeScript, and with WordPress and Shopify when a client runs on them.
+Full stack developer from Enschede, the Netherlands. At an online marketing agency I build web apps, webshops, dashboards and internal tools, mostly with Laravel, React, TypeScript and Python, and with WordPress and Shopify when a client runs on them.
 
 I'm social and enthusiastic, sometimes a bit too much, and I like coding as much as starting things of my own. Outside of work I like binge-watching films and series.
 
@@ -12,6 +12,7 @@ I'm social and enthusiastic, sometimes a bit too much, and I like coding as much
 
 Recent contributions
 
+- **Inversify** fixed query and form keys such as `toString` being parsed into arrays in the Hono and uWebSockets adapters ([#2166](https://github.com/inversify/monorepo/pull/2166))
 - **LiveHelperChat** fixed reactions and message times disappearing after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418))
 - **WooCommerce** fixed product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
 - **Filament** fixed the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638))
@@ -20,11 +21,11 @@ Recent contributions
 
 ## What I work with
 
-<p><img src="https://skillicons.dev/icons?i=ts,php,laravel,react,nextjs,tailwind,nodejs,wordpress,docker,linux,nginx,mysql,postgres" alt="TypeScript, PHP, Laravel, React, Next.js, Tailwind, Node.js, WordPress, Docker, Linux, Nginx, MySQL, PostgreSQL" /></p>
+<p><img src="https://skillicons.dev/icons?i=ts,php,py,laravel,react,nextjs,tailwind,nodejs,fastapi,wordpress,docker,linux,bash,nginx,mysql,postgres&perline=8" alt="TypeScript, PHP, Python, Laravel, React, Next.js, Tailwind, Node.js, FastAPI, WordPress, Docker, Linux, Bash, Nginx, MySQL, PostgreSQL" /></p>
 
 - Laravel and PHP, React, TypeScript and Next.js
 - WordPress and WooCommerce plugins, Shopify themes and apps
-- MCP servers and API integrations with Google Ads, Merchant Center, Analytics and Meta
+- Python and FastAPI for MCP servers and API integrations with Google Ads, Merchant Center, Analytics and Meta
 - Linux servers with Docker, Nginx, mail and monitoring
 
 ## Contact
