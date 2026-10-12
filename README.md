@@ -2,10 +2,10 @@
 
 Full-stack developer from Enschede, the Netherlands, working at [Online Actief](https://www.online-actief.nl), an online marketing agency in Oldenzaal. I build webshops, web apps, dashboards and internal tools for clients, and the integrations behind their marketing, such as Google Ads, Merchant Center, Analytics and Meta.
 
-## At work
+## What I work with
 
 - Webshops, themes and plugins for WooCommerce, Shopify and WordPress
-- Laravel and React apps and dashboards for clients and internal teams
+- Web apps and dashboards with Laravel and React
 - MCP servers in Python that let AI assistants work with ad, analytics and product feed APIs
 - Linux servers with Docker, Nginx, mail and monitoring
 
@@ -13,16 +13,14 @@ Full-stack developer from Enschede, the Netherlands, working at [Online Actief](
 
 ## Open source
 
-Next to my job I work on open source in my own time. These projects are my own and not part of my work at Online Actief.
+In my own time I contribute to open-source projects and build my own tools.
 
 ### My projects
 
 - **[tagdock](https://github.com/VincentBorgers/tagdock)** runs server-side Google Tag Manager on your own server with Docker Compose, as a self-hosted alternative to paid sGTM hosting
 - **[sealbox](https://github.com/VincentBorgers/sealbox)** encrypts files and text from the command line with a passphrase, with a one time mode that destroys the file after it is read once
 
-### Contributions
-
-Merged pull requests to other open-source projects, newest first.
+### Recent contributions
 
 - **Infection** fixed a crash with a `TypeError` when the configuration file is not a JSON object ([#3647](https://github.com/infection/infection/pull/3647))
 - **Spliit** fixed receipts disappearing from earlier occurrences when a recurring expense repeats ([#666](https://github.com/spliit-app/spliit/pull/666))
