@@ -24,7 +24,7 @@ In my own time I contribute to open-source projects and build my own tools.
 
 - **Infection** fixed a crash with a `TypeError` when the configuration file is not a JSON object ([#3647](https://github.com/infection/infection/pull/3647))
 - **Spliit** fixed receipts disappearing from earlier occurrences when a recurring expense repeats ([#666](https://github.com/spliit-app/spliit/pull/666))
-- **WooCommerce** fixed the `on_sale` product filter when it is combined with `include` or `exclude` ([#69432](https://github.com/woocommerce/woocommerce/pull/69432)), and product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
+- **WooCommerce** fixed the On Sale product collection, which showed every product when nothing was on sale ([#69695](https://github.com/woocommerce/woocommerce/pull/69695)), the `on_sale` product filter when it is combined with `include` or `exclude` ([#69432](https://github.com/woocommerce/woocommerce/pull/69432)), and product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
 - **Inversify** fixed query and form keys such as `toString` being parsed into arrays in the Hono and uWebSockets adapters ([#2166](https://github.com/inversify/monorepo/pull/2166))
 - **LiveHelperChat** fixed reactions and message times disappearing after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418))
 - **Filament** fixed the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638))
