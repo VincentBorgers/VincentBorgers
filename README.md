@@ -12,9 +12,11 @@ I'm social and enthusiastic, sometimes a bit too much, and I like coding as much
 
 Recent contributions
 
+- **Infection** fixed a crash with a `TypeError` when the configuration file is not a JSON object ([#3647](https://github.com/infection/infection/pull/3647))
+- **Spliit** fixed receipts disappearing from earlier occurrences when a recurring expense repeats ([#666](https://github.com/spliit-app/spliit/pull/666))
+- **WooCommerce** fixed the `on_sale` product filter when it is combined with `include` or `exclude` ([#69432](https://github.com/woocommerce/woocommerce/pull/69432)), and product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
 - **Inversify** fixed query and form keys such as `toString` being parsed into arrays in the Hono and uWebSockets adapters ([#2166](https://github.com/inversify/monorepo/pull/2166))
 - **LiveHelperChat** fixed reactions and message times disappearing after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418))
-- **WooCommerce** fixed product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
 - **Filament** fixed the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638))
 
 <img src="https://streak-stats.demolab.com?user=VincentBorgers&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
