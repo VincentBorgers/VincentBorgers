@@ -27,7 +27,8 @@ In my own time I contribute to open-source projects and build my own tools.
 - **WooCommerce** fixed the On Sale product collection, which showed every product when nothing was on sale ([#69695](https://github.com/woocommerce/woocommerce/pull/69695)), the `on_sale` product filter when it is combined with `include` or `exclude` ([#69432](https://github.com/woocommerce/woocommerce/pull/69432)), and product search for users who can read but not edit private products ([#69362](https://github.com/woocommerce/woocommerce/pull/69362))
 - **Inversify** fixed query and form keys such as `toString` being parsed into arrays in the Hono and uWebSockets adapters ([#2166](https://github.com/inversify/monorepo/pull/2166))
 - **LiveHelperChat** fixed reactions and message times disappearing after a reaction when the widget theme uses an alias ([#2418](https://github.com/LiveHelperChat/livehelperchat/pull/2418))
-- **Filament** fixed the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638))
+- **Filament** fixed the order that state casts are applied when setting a field's state ([#20730](https://github.com/filamentphp/filament/pull/20730)), select all ignoring the active search and filters in tables that allow duplicate records ([#20725](https://github.com/filamentphp/filament/pull/20725)), and the digit order of `OneTimeCodeInput` in right-to-left layouts ([#20638](https://github.com/filamentphp/filament/pull/20638))
+- **all-contributors** fixed the `generate` command crashing when a contributor avatar is a local path instead of an absolute URL ([#572](https://github.com/all-contributors/cli/pull/572))
 
 <img src="https://streak-stats.demolab.com?user=VincentBorgers&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
